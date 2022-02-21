@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-laba-3", "OOP-laba-3\OOP-laba-3.csproj", "{DF3A5988-E75B-4774-9908-B2D4C6D96DF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF3A5988-E75B-4774-9908-B2D4C6D96DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3A5988-E75B-4774-9908-B2D4C6D96DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3A5988-E75B-4774-9908-B2D4C6D96DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3A5988-E75B-4774-9908-B2D4C6D96DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C72A1D85-8CA9-4827-9379-DFD13B1C8295}
+	EndGlobalSection
+EndGlobal
